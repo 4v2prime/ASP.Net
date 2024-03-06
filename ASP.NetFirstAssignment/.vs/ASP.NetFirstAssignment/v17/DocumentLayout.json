@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\APS Web Development\\ASP.NetFirstAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94D2A26C-D84F-4CEB-B39B-77609ABC8F8E}|ASP.NetFirstAssignment\\ASP.NetFirstAssignment.csproj|w:\\aps web development\\asp.netfirstassignment\\asp.netfirstassignment\\frmregisteruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94D2A26C-D84F-4CEB-B39B-77609ABC8F8E}|ASP.NetFirstAssignment\\ASP.NetFirstAssignment.csproj|solutionrelative:asp.netfirstassignment\\frmregisteruser.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmRegisterUser.aspx",
+              "DocumentMoniker": "W:\\APS Web Development\\ASP.NetFirstAssignment\\ASP.NetFirstAssignment\\frmRegisterUser.aspx",
+              "RelativeDocumentMoniker": "ASP.NetFirstAssignment\\frmRegisterUser.aspx",
+              "ToolTip": "W:\\APS Web Development\\ASP.NetFirstAssignment\\ASP.NetFirstAssignment\\frmRegisterUser.aspx",
+              "RelativeToolTip": "ASP.NetFirstAssignment\\frmRegisterUser.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-05T15:57:56.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
